@@ -22,7 +22,7 @@ geotext
 tabulate
 tqdm
 redis
-psycopg2-binary
+psycopg2
 tika
 pypdf2
 pinboard
